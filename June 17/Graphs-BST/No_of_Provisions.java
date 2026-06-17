@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+public class No_of_Provisions {
     
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
@@ -23,5 +25,29 @@ class Solution {
                 dfs(isConnected, visited, neighbor);
             }
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        No_of_Provisions solution = new No_of_Provisions();
+
+        // Input number of cities
+        System.out.print("Enter number of cities: ");
+        int n = scanner.nextInt();
+
+        // Input adjacency matrix
+        int[][] isConnected = new int[n][n];
+        System.out.println("Enter the adjacency matrix (" + n + "x" + n + "):");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                isConnected[i][j] = scanner.nextInt();
+            }
+        }
+
+        // Find and display number of provinces
+        int result = solution.findCircleNum(isConnected);
+        System.out.println("\nNumber of provinces: " + result);
+
+        scanner.close();
     }
 }
