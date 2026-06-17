@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+public class FourSum {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
@@ -51,5 +53,39 @@ class Solution {
         }
 
         return result;
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        FourSum solution = new FourSum();
+
+        // Input array size
+        System.out.print("Enter the size of array: ");
+        int n = scanner.nextInt();
+
+        // Input array elements
+        int[] nums = new int[n];
+        System.out.println("Enter " + n + " elements:");
+        for (int i = 0; i < n; i++) {
+            nums[i] = scanner.nextInt();
+        }
+
+        // Input target
+        System.out.print("Enter target sum: ");
+        int target = scanner.nextInt();
+
+        // Find and display result
+        List<List<Integer>> result = solution.fourSum(nums, target);
+
+        System.out.println("\nQuadruplets with sum " + target + ":");
+        if (result.isEmpty()) {
+            System.out.println("No quadruplets found");
+        } else {
+            for (List<Integer> quadruplet : result) {
+                System.out.println(quadruplet);
+            }
+        }
+
+        scanner.close();
     }
 }
