@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0345-reverse-vowels-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
