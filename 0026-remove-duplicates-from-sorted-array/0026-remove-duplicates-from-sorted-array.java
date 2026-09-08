@@ -1,16 +1,17 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-     
-    int i=0;
-    for(int j=1; j<nums.length; j++){
-        if(nums[i]!=nums[j]){
-            int temp = nums[i+1];
-            nums[i+1] = nums[j];
-            nums[j] = temp;
-            i++;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int n = nums.length;
+        int i = 0;
+        for (int ele : nums) {
+            if (!map.containsKey(ele)) {
+                map.put(ele, 1);
+                nums[i] = ele;
+                i++;
+            } else {
+                map.put(ele, map.get(ele) + 1);
+            }
         }
+        return i;
     }
-    return i+1;
-     }
-
 }
