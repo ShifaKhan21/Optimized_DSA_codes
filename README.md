@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0031-next-permutation) |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/3870-count-commas-in-range) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
