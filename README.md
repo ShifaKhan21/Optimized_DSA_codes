@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -46,10 +47,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0525-contiguous-array](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
