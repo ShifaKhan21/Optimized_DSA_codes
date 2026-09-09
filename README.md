@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
@@ -61,4 +62,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
