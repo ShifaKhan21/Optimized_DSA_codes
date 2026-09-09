@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0076-minimum-window-substring) |
 | [0525-contiguous-array](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -58,4 +60,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
