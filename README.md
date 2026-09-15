@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,28 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShifaKhan21/Optimized_DSA_codes/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
